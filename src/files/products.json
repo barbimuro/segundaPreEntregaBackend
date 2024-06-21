@@ -1,0 +1,80 @@
+[
+  {
+    "id": 2,
+    "name": "Paleta de sombras",
+    "quantity": 5,
+    "price": 70,
+    "title": "Paleta de sombras",
+    "description": "Sombra para los ojos",
+    "code": "S",
+    "status": true,
+    "stock": 36,
+    "category": "MakeUp"
+  },
+  {
+    "id": 3,
+    "name": "Base",
+    "quantity": 3,
+    "price": 50,
+    "title": "Base",
+    "description": "Cobertura para la piel",
+    "code": "B",
+    "status": true,
+    "stock": 12,
+    "category": "MakeUp"
+  },
+  {
+    "id": 4,
+    "name": "Mascara",
+    "quantity": 21,
+    "price": 12,
+    "title": "Rimmel",
+    "description": "Rizador de pestañas",
+    "code": "MR",
+    "status": true,
+    "stock": 8,
+    "category": "MakeUp"
+  },
+  {
+    "id": 5,
+    "name": "Collar",
+    "title": "Zapato de fiesta",
+    "description": "Zapato con brillos",
+    "code": "Zapi",
+    "price": 90,
+    "status": true,
+    "stock": 4,
+    "category": "Shoes"
+  },
+  {
+    "id": 6,
+    "name": "Zapatos en punta",
+    "title": "Zapato de fiesta",
+    "description": "Zapato con brillos",
+    "code": "Zapi",
+    "price": 90,
+    "status": true,
+    "stock": 4,
+    "category": "Shoes"
+  },
+  {
+    "id": 7,
+    "title": "aa",
+    "description": "aaa",
+    "code": "123",
+    "price": 741,
+    "status": false,
+    "stock": 2,
+    "category": "sds"
+  },
+  {
+    "id": 8,
+    "title": "aa",
+    "description": "aaa",
+    "code": "123",
+    "price": 742,
+    "status": false,
+    "stock": 2,
+    "category": "sds"
+  }
+]
