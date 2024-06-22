@@ -31,7 +31,7 @@ socket.on('productAdded', async () => {
             throw new Error('Network response was not ok');
         }
         const products = await response.json();
-        console.log('Productos actualizados:', products);
+        console.log('Productos actualizados:');
 
         productsContainer.innerHTML = '';
 

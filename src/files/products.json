@@ -49,7 +49,7 @@
   {
     "id": 6,
     "name": "Zapatos en punta",
-    "title": "Zapato de fiesta",
+    "title": "Zapato de fiesta 2",
     "description": "Zapato con brillos",
     "code": "Zapi",
     "price": 90,
@@ -59,22 +59,12 @@
   },
   {
     "id": 7,
-    "title": "aa",
-    "description": "aaa",
-    "code": "123",
-    "price": 741,
+    "title": "Collar brillante",
+    "description": "Collar con diamantes",
+    "code": "74",
+    "price": 500,
     "status": false,
-    "stock": 2,
-    "category": "sds"
-  },
-  {
-    "id": 8,
-    "title": "aa",
-    "description": "aaa",
-    "code": "123",
-    "price": 742,
-    "status": false,
-    "stock": 2,
-    "category": "sds"
+    "stock": 3,
+    "category": "Joyeria"
   }
 ]
